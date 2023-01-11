@@ -49,6 +49,12 @@ May - July 2020 <br>
 - Built Virtual Reality simulations related to internal products
 - Implemented a mobile application in the VR simlation using C# for backend development and used the Unity IDE for UI designs.
 
+## Projects
+
+- **Generate, Explain, Maintain Style of Adversarial Reviews**, Sepetember - December 2022 <br>
+- **Generation Effect in Neural Networks**, December 2022 <br>
+- **Language Acquisition on Reddit**, October - December 2022 <br>
+
 ## Presentations
 
 Scandlen, M., Lelia Glass & Jon Forrest. 2021. **Perceiving Southernness and Political Ideology in Speech**. _Linguistics Conference at the University of Georgia_. <br>
