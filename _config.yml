@@ -21,9 +21,8 @@ avatar: /images/mscandlen.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: madelynscandlen@gmail.com
-  github: github.com/mscandlen
-  linkedin: linkedin.com/in/madelyn-scandlen
-  rss: rss
+  github: mscandlen
+  linkedin: madelyn-scandlen
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
