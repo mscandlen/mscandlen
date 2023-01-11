@@ -6,14 +6,12 @@ permalink: /cv/
 
 ## Education
 
-### Master of Science, Computer Science
-
+**Master of Science, Computer Science** <br>
 _Georgia Institute of Technology, Atlanta, GA_<br>
 Machine Learning Specialization<br>
 Expected Graduation: December 2023 <br>
 
-### Bachelor of Science, Computer Science
-
+**Bachelor of Science, Computer Science** <br>
 _Georgia Institute of Technology, Atlanta, GA_<br>
 Intelligence and People Concentration<br>
 Linguistics Minor<br>
@@ -21,19 +19,13 @@ August 2018 - May 2022 <br>
 
 ## Research Experience
 
-### Research Assistant
-
-_Linguistics Department at Georgia Institute of Technology_ <br>
-
+**Research Assistant**, _Linguistics Department at Georgia Institute of Technology_ <br>
 Language & Politics in the New South <br>
 August 2020 - December 2021 <br>
 - Collected sociolinguistic interviews from native Georgia residents, transcribed participants' speech using PRAAT, and measured vowel space using DARLA.
 - Created Python and R programs to analyze the relationships between participants' political ideology and the "Southern vowels".
 
-### Research Assistant
-
-_DILAC at Georgia Institute of Technology_ <br>
-
+**Research Assistant**, _DILAC at Georgia Institute of Technology_ <br>
 NLP Analysis on the Works of Ralph Waldo Emerson <br>
 February 2021 - August 2021 <br>
 - Performed entity extraction on collected works of Ralph Waldo Emerson with SpaCy and NeuralCoref libraries.
@@ -42,9 +34,7 @@ February 2021 - August 2021 <br>
 
 ## Work Experience
 
-### Software Development Intern (XR Team)
-
-_State Farm Insurance, Phoenix, AZ_<br>
+**Software Development Intern (XR Team)**, _State Farm Insurance, Phoenix, AZ_<br>
 May - July 2020 <br>
 - Built Virtual Reality simulations related to internal products
 - Implemented a mobile application in the VR simlation using C# for backend development and used the Unity IDE for UI designs.
