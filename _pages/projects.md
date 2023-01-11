@@ -4,10 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-## Projects
+## Programming
 
-### Programming
+## Linguistics
 
-### Linguistics
-
-### Cognitive Sciencee
+## Cognitive Sciencee
