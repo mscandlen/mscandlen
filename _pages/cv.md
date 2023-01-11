@@ -41,7 +41,7 @@ May - July 2020 <br>
 
 ## Projects
 
-- **Generate, Explain, Maintain Style of Adversarial Reviews**, Sepetember - December 2022 <br>
+- [Generate, Explain, Maintain Style of Adversarial Reviews](https://mscandlen.github.io/mscandlen/GEMS/), Sepetember - December 2022 <br>
 - **Generation Effect in Neural Networks**, December 2022 <br>
 - **Language Acquisition on Reddit**, October - December 2022 <br>
 
