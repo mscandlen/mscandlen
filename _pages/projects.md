@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Projects
 permalink: /projects/
 ---
@@ -8,4 +8,4 @@ permalink: /projects/
 
 ## Linguistics
 
-## Cognitive Sciencee
+## Cognitive Science
