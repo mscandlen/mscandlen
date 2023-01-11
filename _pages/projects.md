@@ -1,7 +1,13 @@
-# Projects
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
 
-## Programming
+## Projects
 
-## Linguistics
+### Programming
 
-## Cognitive Sciencee
+### Linguistics
+
+### Cognitive Sciencee
