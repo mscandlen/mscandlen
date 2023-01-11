@@ -5,18 +5,18 @@ title: Projects
 ---
 
 
+
 <div id="projects">
-    {% for category in site.categories %}
-    <div class="archive-group">
+{% for category in site.categories %}
+  <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
-    <h2 class="category-head">{{ category_name }}</h3>
+    <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
-      {% for post in site.categories[category_name] %}
-      {% unless post.next %}
-      <ul class="this">
+    {% for post in site.categories[category_name] %}
+    <ul class="this">
           {% else %}
           {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
           {% capture nmonth %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
@@ -32,6 +32,9 @@ title: Projects
           {% endif %}
           {% endunless %}
           <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
-          {% endfor %}
-      </ul>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
 </div>
+
