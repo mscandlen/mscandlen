@@ -6,9 +6,15 @@ title: Projects
 
 
 <div id="projects">
-  <section id="P">
-     <h3>ML</h3>
-      {%for post in site.posts %}
+    {% for category in site.categories %}
+    <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+    
+    <h2 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+      {% for post in site.categories[category_name] %}
       {% unless post.next %}
       <ul class="this">
           {% else %}
@@ -28,6 +34,4 @@ title: Projects
           <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
           {% endfor %}
       </ul>
-    <h3>Linguistics</h3>
-  </section>
 </div>
