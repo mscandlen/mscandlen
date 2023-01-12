@@ -16,9 +16,10 @@ title: Projects
     
     {% for post in site.categories[category_name]%}
     <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h4>{{ post.title }}</h4>
+        % <h4>{{ post.title }}</h4>
         <div>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+          <p>{{ post.title }}</p>
           <p class="post_date">{{ post.date | date: "%B %Y" }}</p>
         </div>
       </a>
