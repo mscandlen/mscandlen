@@ -13,7 +13,7 @@ title: Projects
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
-    <h2 class="category-head">{{ category_name }}</h2>
+    <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <ul class="this">
@@ -24,14 +24,13 @@ title: Projects
           {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
           {% if year != nyear %}
       </ul>
-      <h3 style="text-align:left;">{{ post.date | date: '%Y' }}</h3>
+      <h2 style="text-align:left;">{{ post.date | date: '%Y' }}</h2>
       <ul class="past">
           {% endif %}
           {% if month != nmonth %}
-          <h4 style="text-align:left;">{{ post.date | date: '%B %Y' }}</h4>
+          <h3 style="text-align:left;">{{ post.date | date: '%B %Y' }}</h3>
           {% endif %}
           <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
-    </article>
     {% endfor %}
   </div>
 {% endfor %}
