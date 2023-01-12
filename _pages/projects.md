@@ -20,9 +20,9 @@ title: Projects
       
       <div class="excerpt">
         {{ post.excerpt }}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      
     </article>
   {% endfor %}
   </div>
