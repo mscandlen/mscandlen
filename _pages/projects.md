@@ -16,8 +16,8 @@ title: Projects
     
     {% for post in site.categories[category_name]%}
     <article class="post">
-        <p><b><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></b> - {{ post.date | date: "%e %B %Y" }}</p>
-        <p class="excerpt">{{ post.excerpt}} <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></p>
+        <p><b><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></b> - {{ post.date | date: "%B %Y" }}</p>
+        <p class="excerpt">{{ post.excerpt }}<a href="{{ site.baseurl }}{{ post.url }}">Read More</a></p>
       
     </article>
   {% endfor %}
