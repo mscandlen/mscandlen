@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generation Effect in Neural Networks
-categories: "Cognitive Science"
+categories: Cognitive-Science
 ---
 
 Generation Effect Excerpt
