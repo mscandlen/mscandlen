@@ -19,11 +19,11 @@ title: Projects
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h2>{{ post.title }}</h2>
         <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+          <p class="post_date">{{ post.date | date: "%Y" }}</p>
         </div>
       </a>
       
-      <div class="entry">
+      <div class="excerpt">
         {{ post.excerpt }}
       </div>
 
