@@ -11,13 +11,13 @@ title: Projects
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
-    <h2 class="category-head">{{ category_name }}</h2>
+    <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     
     {% for post in site.categories[category_name]%}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <h3>{{ post.title }}</h3>
+        <h4>{{ post.title }}</h4>
         <div>
           <p class="post_date">{{ post.date | date: "%B %Y" }}</p>
         </div>
