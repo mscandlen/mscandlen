@@ -42,7 +42,7 @@ May - July 2020 <br>
 ## Projects
 
 - [Generate, Explain, Maintain Style of Adversarial Reviews](https://mscandlen.github.io/mscandlen/GEMS/), Sepetember - December 2022 <br>
-- **Generation Effect in Neural Networks**, December 2022 <br>
+- [Generation Effect in Neural Networks](https://mscandlen.github.io/mscandlen/Generation-Effect/), November - December 2022 <br>
 - **Language Acquisition on Reddit**, October - December 2022 <br>
 
 ## Presentations
@@ -66,10 +66,10 @@ _College of Computing at Georgia Institute of Technology_ <br>
 CS 4510 - Automata and Complexity <br>
 August 2022 - May 2023 <br>
 
-**Attendee at North American Summer School for Language, Logic, and Information (NASSLLI)** <br>
+**Attendee at [North American Summer School for Language, Logic, and Information (NASSLLI)](https://ml-la.github.io/nasslli2022/)** <br>
 _University of Southern California_, Summer 2022 <br>
 
-**Attendee at European Summer School for Language, Logic, and Information (ESSLLI)** <br>
+**Attendee at [European Summer School for Language, Logic, and Information (ESSLLI)](https://esslli2021.unibz.it/))** <br>
 _virtually hosted by Utrecht University_, Summer 2021 <br>
 
 **Student at Oxford Study Abroad** <br>
