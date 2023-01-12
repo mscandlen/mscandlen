@@ -15,7 +15,8 @@ title: Projects
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <h4><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</h4>
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a>< - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}<h4>
+        <p>{post.excerpt | strip_html}</p>
     </article>
     {% endfor %}
   </div>
