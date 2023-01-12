@@ -69,7 +69,7 @@ August 2022 - May 2023 <br>
 **Attendee at [North American Summer School for Language, Logic, and Information (NASSLLI)](https://ml-la.github.io/nasslli2022/)** <br>
 _University of Southern California_, Summer 2022 <br>
 
-**Attendee at [European Summer School for Language, Logic, and Information (ESSLLI)](https://esslli2021.unibz.it/))** <br>
+**Attendee at [European Summer School for Language, Logic, and Information (ESSLLI)](https://esslli2021.unibz.it/)** <br>
 _virtually hosted by Utrecht University_, Summer 2021 <br>
 
 **Student at Oxford Study Abroad** <br>
