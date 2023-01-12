@@ -80,7 +80,7 @@ _University of Oxford_, Summer 2019 <br>
 **Computer** <br>
 _Languages_: Java, Python, C#, R, SQL <br>
 _Libraries_: NumPy, Pandas, Scikit-learn, PyTorch, Keras, Tensorflow, NLTK <br> 
-_Tools_: Git, Unity, LaTeX
+_Tools_: Git, Unity, LaTeX <br>
 _Topics_: Natural Language Processing, Machine Learning, Statistical Modeling, Data Analysis <br>
 
 **Language** <br>
