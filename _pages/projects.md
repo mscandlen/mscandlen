@@ -13,12 +13,23 @@ title: Projects
     
     <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
-      <p>{{post.excerpt}}</p>
+    
+    {% for post in site.categories[category_name]%}
+    <article class="post">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <h2>{{ post.title }}</h2>
+        <div>
+          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+        </div>
+      </a>
+      
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
-    {% endfor %}
+  {% endfor %}
   </div>
 {% endfor %}
 </div>
