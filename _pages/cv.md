@@ -19,8 +19,8 @@ August 2018 - May 2022 <br>
 
 ## Research Experience
 
-**Research Assistant**, _Linguistics Department at Georgia Institute of Technology_ <br>
-Language & Politics in the New South <br>
+**Research Assistant**, _DILAC at Georgia Institute of Technology_ <br>
+[Language & Politics in the New South](https://dilac.iac.gatech.edu/node/69) <br>
 August 2020 - December 2021 <br>
 - Collected sociolinguistic interviews from native Georgia residents, transcribed participants' speech using PRAAT, and measured vowel space using DARLA.
 - Created Python and R programs to analyze the relationships between participants' political ideology and the "Southern vowels".
