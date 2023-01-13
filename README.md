@@ -2,6 +2,6 @@ I am a current Masters student at Georgia Institute of Technology studying Compu
 
 Some of my completed research projects evaluating language-learning online, understanding the semantic use of disfluencies in social media posts, and generating adversarial fake reviews.
 
-Learn more about me at http://mscandlen.github.io/mscandlen
+Learn more about me at http://mscandlen.github.io/mscandlen or download my [resume](https://github.com/mscandlen/mscandlen/raw/master/docs/Madelyn_Scandlen_Resume.pdf) or [CV](https://github.com/mscandlen/mscandlen/raw/master/docs/Madelyn_Scandlen_CV.pdf).
 
 Explore my work in machine learning, linguistics, and cognitive science in the repositories below.
