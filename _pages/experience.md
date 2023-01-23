@@ -6,13 +6,13 @@ permalink: /experience/
 
 ## Research Experience
 
-**Research Assistant**, _DILAC at Georgia Institute of Technology_ <br>
+**Research Assistant** _DILAC at Georgia Institute of Technology, Atlanta, GA_ <br>
 [Language & Politics in the New South](https://dilac.iac.gatech.edu/node/69) <br>
 August 2020 - December 2021 <br>
 - Collected sociolinguistic interviews from native Georgia residents, transcribed participants' speech using PRAAT, and measured vowel space using DARLA.
 - Created Python and R programs to analyze the relationships between participants' political ideology and the "Southern vowels".
 
-**Research Assistant**, _DILAC at Georgia Institute of Technology_ <br>
+**Research Assistant** _DILAC at Georgia Institute of Technology, Atlanta, GA_ <br>
 NLP Analysis on the Works of Ralph Waldo Emerson <br>
 February 2021 - August 2021 <br>
 - Performed entity extraction on collected works of Ralph Waldo Emerson with SpaCy and NeuralCoref libraries.
