@@ -9,4 +9,4 @@ I am a current Masters student at [Georgia Institute of Technology](https://www.
 Some of my completed research projects include evaluating language-learning online, understanding the semantic use of disfluencies in social media posts, and generating adversarial fake reviews.
 
 [Resume](https://github.com/mscandlen/mscandlen/raw/master/docs/Madelyn_Scandlen_Resume.pdf) <br>
-[CV](https://mscandlen.github.io/mscandlen/CV/)
+[CV](https://github.com/mscandlen/mscandlen/raw/master/docs/Madelyn_Scandlen_CV.pdf) <br>
