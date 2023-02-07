@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Motivations for Language Learning Online
-categories: Linguistics
+categories: Machine-Learning
 ---
 
 Motivations for Language Learning Online
