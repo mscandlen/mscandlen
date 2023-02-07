@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disfluencies in Online Spontaneous Language
+title: Disfluencies in Online Non-Spontaneous Language
 categories: Linguistics
 ---
 
