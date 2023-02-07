@@ -4,10 +4,6 @@ title: Perceiving Southernness and Political Ideology in Speech
 categories: Linguistics
 ---
 
-Perceiving Southernness and Political Ideology in Speech Excerpt
-
-### Abstract
-
 In the urban centers in the US South, the Southern Vowel Shift (SVS) has been retreating (Dodsworth & Kohn, 2012).
 These changes create a dichotomy in regional variation that resembles the contrast of liberal urban centers to conservative rural areas (Scala & Johnson, 2017).
 This new distinction suggests that speakers with phonetic features of the SVS might be perceived as politically conservative (Amira et al., 2018).
