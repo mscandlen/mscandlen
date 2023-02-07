@@ -14,8 +14,8 @@ This new distinction suggests that speakers with phonetic features of the SVS mi
 We recorded the speech of young adults from Georgia and used clips from a reading passage to ask American listeners to rate the speakers’ perceived “southernness” and separately asked other listeners to rate the speakers’ perceived“ political conservatism.”
 We measure these perceptions against one another, against the speakers’ actual vowel measurements, and against the speakers’ self-reported gender/ethnicity.
 
-Amira, Karyn, Cooper, Christopher A., Knotts, H. Gibbs, & Wofford, Claire. 2018. The southern accent as a heuristic in American campaigns and elections. *American Politics Research*, 46(6), 1065–1093.
-Dodsworth, Robin, & Kohn, Mary. 2012. Urban rejection of the vernacular: The SVS undone. *Language Variation and Change*, 24(2), 221–245.
+Amira, Karyn, Cooper, Christopher A., Knotts, H. Gibbs, & Wofford, Claire. 2018. The southern accent as a heuristic in American campaigns and elections. *American Politics Research*, 46(6), 1065–1093. <br>
+Dodsworth, Robin, & Kohn, Mary. 2012. Urban rejection of the vernacular: The SVS undone. *Language Variation and Change*, 24(2), 221–245. <br>
 Scala, Dante J., & Johnson, Kenneth M. 2017. Political Polarization along the Rural-Urban Continuum? The Geography of the Presidential Vote, 2000–2016. *The ANNALS of the American Academy of Political and Social Science*, 672(1), 162–184.
 
 ### Paper
