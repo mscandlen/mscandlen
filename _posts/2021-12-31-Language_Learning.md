@@ -15,7 +15,7 @@ The models uses a text corpus of Reddit posts.
 
 ### Paper
 
-[Motivations for Language Learning (December 2021)](docs/Scandlen_Pandya_2021.pdf)
+[Motivations for Language Learning (December 2021)](https://github.com/mscandlen/mscandlen/raw/master/docs/Scandlen_Pandya_2021.pdf)
 
 ### Examples
 
