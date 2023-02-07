@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Involvements
-permalink: /Involvements/
+permalink: /involvements/
 ---
 
 ## Involvements
