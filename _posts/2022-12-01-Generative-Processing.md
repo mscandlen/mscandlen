@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Generation Effect in Neural Networks
+title: Modeling Generative Processing in Neural Networks
 categories: Cognitive-Science
 ---
-
-Generation Effect
 
 ### Abstract
 
