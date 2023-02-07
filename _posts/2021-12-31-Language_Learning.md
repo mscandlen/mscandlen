@@ -4,8 +4,6 @@ title: Motivations for Language Learning Online
 categories: Machine-Learning
 ---
 
-Motivations for Language Learning Online
-
 ### Abstract
 
 This project utilizes natural language processing methods to analyze why Reddit users are learning a new language (L2).
