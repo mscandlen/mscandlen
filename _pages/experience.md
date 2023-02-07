@@ -23,5 +23,20 @@ February 2021 - August 2021 <br>
 
 **Software Development Intern (XR Team)**, _State Farm Insurance, Phoenix, AZ_<br>
 May - July 2020 <br>
-- Built Virtual Reality simulations related to internal products
+- Built Virtual Reality simulations related to internal products.
 - Implemented a mobile application in the VR simlation using C# for backend development and used the Unity IDE for UI designs.
+
+## Teaching Experience
+
+**Graduate Teaching Assistant** _College of Computing at Georgia Institute of Technology, Atlanta, GA_ <br>
+CS 4510, Automata and Complexity <br>
+August 2022 - May 2023 <br>
+- Conducted office hours and assisted students in learning about automata.
+- Graded homework and exams and recorded lectures into print outs for students to refer to later.
+
+**Teaching Assistant** _College of Compuuting at Georgia Institute of Technology, Atlanta, GA_ <br>
+CS 1331, Introduction to Object-Oriented Programming <br>
+Januay 2019 - December 2020 <br>
+- Taught a classroom of 40-50 students for 1.25 hours each week.
+- Served as exam lead and coordinated 33 other TAs in drafting exam questions.
+
