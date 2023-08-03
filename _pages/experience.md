@@ -4,6 +4,20 @@ title: Experience
 permalink: /experience/
 ---
 
+## Work Experience
+
+**Data Science Intern (AI Systems Team)**, _HP Inc., Houston, TX_<br>
+May - August 2023 <br>
+-	Developed machine learning temporal models for change-point and anomaly detection of company products using scikit-learn packages.
+-	Analyzed big data on PySpark clusters to derive actionable insights and support decision-making processes.
+-	Fine-tuned and repurposed open-source Large Language Models using AWS JumpStart scaffolding to enhance automation for internal resources.
+
+**Software Development Intern (XR Team)**, _State Farm Insurance, Phoenix, AZ_<br>
+May - July 2020 <br>
+-	Applied human-computer interaction guidelines and concepts to create engaging internal applications.
+-	Implemented a Virtual Reality simulation for employee onboarding, using C# and Unity IDE, resulting in notable improvements in the onboarding process.
+-	Designed and constructed a mobile application in the VR simulation with seamless user interactions.
+
 ## Research Experience
 
 **Research Assistant** _DILAC at Georgia Institute of Technology, Atlanta, GA_ <br>
@@ -18,13 +32,6 @@ February 2021 - August 2021 <br>
 - Performed entity extraction on collected works of Ralph Waldo Emerson with SpaCy and NeuralCoref libraries.
 - Used SparQL queries on WikiData entities to validate correct entities.
 - Built a knowledge graph of Emerson's frequently mentioned entities for analysis.
-
-## Work Experience
-
-**Software Development Intern (XR Team)**, _State Farm Insurance, Phoenix, AZ_<br>
-May - July 2020 <br>
-- Built Virtual Reality simulations related to internal products.
-- Implemented a mobile application in the VR simlation using C# for backend development and used the Unity IDE for UI designs.
 
 ## Teaching Experience
 
