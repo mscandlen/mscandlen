@@ -1,33 +1,13 @@
 ---
 layout: page
-title: Involvements
-permalink: /involvements/
+title: Interests
+permalink: /interests/
 ---
 
-## Involvements
+## Resources
 
-**Attendee at [North American Summer School for Language, Logic, and Information (NASSLLI)](https://ml-la.github.io/nasslli2022/)** <br>
-_University of Southern California_, Summer 2022 <br>
+### Language Model Readings
 
-**Attendee at [European Summer School for Language, Logic, and Information (ESSLLI)](https://esslli2021.unibz.it/)** <br>
-_virtually hosted by Utrecht University_, Summer 2021 <br>
+[_The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"_](https://arxiv.org/abs/2309.12288). Lukas Berglund, Meg Tong, Max Kaufmann, Mikita Balesni, Asa Cooper Stickland, Tomasz Korbak, Owain Evans. 2023. <br>
 
-**Student at Oxford Study Abroad** <br>
-_University of Oxford_, Summer 2019 <br>
-
-## Presentations
-
-Scandlen, M., Lelia Glass & Jon Forrest. 2021. **Perceiving Southernness and Political Ideology in Speech**. _Linguistics Conference at the University of Georgia_. <br>
-
-Liotta, M. & Madelyn Scandlen. 2021. **Language and Politics in the New South**. _Georgia Tech Undergraduate Research Symposium_. <br>
-
-## Skills
-
-**Computer** <br>
-_Languages_: Java, Python, C#, R, SQL <br>
-_Libraries_: NumPy, Pandas, Scikit-learn, PyTorch, Keras, Tensorflow, NLTK <br> 
-_Tools_: Git, Unity, LaTeX <br>
-_Topics_: Natural Language Processing, Machine Learning, Statistical Modeling, Data Analysis <br>
-
-**Language** <br>
-Native English, conversational Spanish <br>
+[_The Hardware Lottery_](https://hardwarelottery.github.io/). Sara Hooker. 2009. <br>
