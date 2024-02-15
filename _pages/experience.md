@@ -6,13 +6,19 @@ permalink: /experience/
 
 ## Work Experience
 
-**Data Science Intern (AI Systems Team)**, _HP Inc., Houston, TX_<br>
-May - August 2023 <br>
--	Developed machine learning temporal models for change-point and anomaly detection of company products using scikit-learn packages.
--	Analyzed big data on PySpark clusters to derive actionable insights and support decision-making processes.
--	Fine-tuned and repurposed open-source Large Language Models using AWS JumpStart scaffolding to enhance automation for internal resources.
+**Data Scientist (AI Systems Team)** _HP Inc., San Diego, CA_<br>
+January 2024 - Present <br>
+- Fine-tuned and repurposed open-source Large Language Models (LLMs) using AWS JumpStart scaffolding to enhance automation for internal resources.
+- Automated benchmarking for LLMs on proprietary data using state-of-the-art open-source HuggingFace packages to enhance model evaluation and performance metrics.
+- Leveraged LLMs to explore innovative business use cases, identifying avenues for enhanced efficiency and strategic utilization of language models in diverse applications.
 
-**Software Development Intern (XR Team)**, _State Farm Insurance, Phoenix, AZ_<br>
+**Data Science Intern (AI Systems Team)** _HP Inc., Houston, TX_<br>
+May - August 2023 <br>
+- Developed machine learning temporal models for change-point and anomaly detection of company products using scikit-learn packages.
+- Analyzed big data on PySpark clusters to derive actionable insights and support decision-making processes.
+- Spearheaded exploration of new data for appropriate modeling techniques to extract meaningful patterns.
+
+**Software Development Intern (XR Team)** _State Farm Insurance, Phoenix, AZ_<br>
 May - July 2020 <br>
 -	Applied human-computer interaction guidelines and concepts to create engaging internal applications.
 -	Implemented a Virtual Reality simulation for employee onboarding, using C# and Unity IDE, resulting in notable improvements in the onboarding process.
