@@ -7,7 +7,7 @@ permalink: /experience/
 ## Work Experience
 
 **Data Scientist (AI Systems Team)** _HP Inc., San Diego, CA_<br>
-January 2024 - Present <br>
+January 2024 - July 2025 <br>
 - Fine-tuned and repurposed open-source Large Language Models (LLMs) using AWS JumpStart scaffolding to enhance automation for internal resources.
 - Automated benchmarking for LLMs on proprietary data using state-of-the-art open-source HuggingFace packages to enhance model evaluation and performance metrics.
 - Leveraged LLMs to explore innovative business use cases, identifying avenues for enhanced efficiency and strategic utilization of language models in diverse applications.
